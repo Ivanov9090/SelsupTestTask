@@ -1,0 +1,72 @@
+
+Ÿ
+java:S1104B"WMake description a static final constant or non-public and provide accessors if needed.(µì—Ùúÿÿÿÿ8Ø”áºƒ2J$8d1b7df2-58dd-46a7-a174-49ed43e34997
+š
+java:S1104C"RMake doc_id a static final constant or non-public and provide accessors if needed.(»’œ°ıÿÿÿÿ8Ø”áºƒ2J$52673068-3b93-4ba5-9c6a-5e2dc990ef38
+
+java:S1104D"VMake doc_status a static final constant or non-public and provide accessors if needed.(ÊÆ¡ùÿÿÿÿ8Ø”áºƒ2J$b9f0b62b-17cd-49e8-b9d7-bdef301428f9
+—
+java:S1104E"TMake doc_type a static final constant or non-public and provide accessors if needed.(õ¬²ó8Ø”áºƒ2J$ffead2f3-5544-417c-8795-ce77b3200e0c
+œ
+java:S1104F"YMake importRequest a static final constant or non-public and provide accessors if needed.(Ø‘îÑ8Ø”áºƒ2J$1aa8c676-2930-45d8-8151-1f39ad79c9e2
+
+java:S1104G"UMake owner_inn a static final constant or non-public and provide accessors if needed.(‚±®Êûÿÿÿÿ8Ø”áºƒ2J$c36bad4b-edba-4b72-b1e7-0cdf8bf0a967
+£
+java:S1104H"[Make participant_inn a static final constant or non-public and provide accessors if needed.(ïÏóüÿÿÿÿ8Ù”áºƒ2J$8631f8fd-b404-456f-b6dc-718717b6c1c8
+›
+java:S1104I"XMake producer_inn a static final constant or non-public and provide accessors if needed.(¦©Æ—8Ù”áºƒ2J$6d9ec637-8686-413e-ba65-578c50ada65d
+£
+java:S1104J"[Make production_date a static final constant or non-public and provide accessors if needed.(¬šş÷úÿÿÿÿ8Ù”áºƒ2J$2c30deaa-dd30-475e-beec-dca120c6cbc6
+£
+java:S1104K"[Make production_type a static final constant or non-public and provide accessors if needed.(¡ö‚İüÿÿÿÿ8Ù”áºƒ2J$cd7558af-7be9-4581-8286-76e62c6edb1a
+–
+java:S1104L"TMake products a static final constant or non-public and provide accessors if needed.(Ï­«K8Ù”áºƒ2J$3a9a6cb9-db36-49d9-8aa7-134e0a117504
+—
+java:S1104M"TMake reg_date a static final constant or non-public and provide accessors if needed.(¬Ş‚é8Ù”áºƒ2J$d7d76bd5-2409-41a7-82e6-c06dd26661c6
+˜
+java:S1104N"VMake reg_number a static final constant or non-public and provide accessors if needed.(÷¶8Ù”áºƒ2J$b710ed82-c11c-48c4-91ec-989e3409643e
+
+java:S1104Q"ZMake participantInn a static final constant or non-public and provide accessors if needed.(²ş©¨8Ù”áºƒ2J$e9161320-f42c-4c4d-81bc-97d5604d83b0
+¨
+java:S1104U"`Make certificate_document a static final constant or non-public and provide accessors if needed.(§ëå¢ùÿÿÿÿ8Ù”áºƒ2J$2ee398dd-3c24-4a39-ba07-ceab1be06279
+¨
+java:S1104V"eMake certificate_document_date a static final constant or non-public and provide accessors if needed.(­©É8Ù”áºƒ2J$9206c274-cf41-4ec6-a014-e10e5b28d3b4
+¯
+java:S1104W"gMake certificate_document_number a static final constant or non-public and provide accessors if needed.(€µ­´şÿÿÿÿ8Ù”áºƒ2J$36501b0b-e807-466a-b18b-206023131546
+
+java:S1104X"UMake owner_inn a static final constant or non-public and provide accessors if needed.(‚±®Êûÿÿÿÿ8Ù”áºƒ2J$62faee4b-cf0e-4b2e-9d04-392247f1a2ee
+›
+java:S1104Y"XMake producer_inn a static final constant or non-public and provide accessors if needed.(¦©Æ—8Ù”áºƒ2J$2dc0c100-fba2-4ce5-95cb-2ff2323c14ec
+£
+java:S1104Z"[Make production_date a static final constant or non-public and provide accessors if needed.(¬šş÷úÿÿÿÿ8Ù”áºƒ2J$910a07b8-08a1-4cbf-a442-95438e0211e6
+™
+java:S1104["VMake tnved_code a static final constant or non-public and provide accessors if needed.(ƒÈ„8Ù”áºƒ2J$f46b9818-a879-4660-975f-e3176983186c
+œ
+java:S1104\"TMake uit_code a static final constant or non-public and provide accessors if needed.(öÕó‰şÿÿÿÿ8Ù”áºƒ2J$936d2753-36ca-45e8-af49-894bd84062bf
+—
+java:S1104]"UMake uitu_code a static final constant or non-public and provide accessors if needed.(Ü­ãJ8Ú”áºƒ2J$5f60e3e7-2728-493b-b6c5-1497fea7ed47
+º
+java:S11301"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ğ¸ûı8€ÁªÎƒ2J$5f1ce083-0306-4bbe-a119-f442428e947b
+t
+java:S16022",Remove useless curly braces around statement(Ø®’úÿÿÿÿ8Êõ©Îƒ2J$9354c3d4-abc1-4b8d-88ce-bb4eb1138606
+‡
+java:S16122"?Replace this lambda with method reference 'semaphore::release'.(Ø®’úÿÿÿÿ8Êõ©Îƒ2J$db861b30-2bc3-4a98-afe7-60f5a9700d46
+˜	java:S116C"QRename this field "doc_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»’œ°ıÿÿÿÿ8••áºƒ2J$399facc4-c715-445b-85c6-dcaf81c41d0e
+œ	java:S116D"URename this field "doc_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÆ¡ùÿÿÿÿ8••áºƒ2J$1072c4ec-bf6d-4f02-9e94-7c707cc4d2c5
+•	java:S116E"SRename this field "doc_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ¬²ó8••áºƒ2J$1bdad1d6-4229-4faa-ab4d-e20f1b337194
+›	java:S116G"TRename this field "owner_inn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚±®Êûÿÿÿÿ8••áºƒ2J$480ef6c7-0a45-4261-a9d9-58f32725a43a
+¡	java:S116H"ZRename this field "participant_inn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÏóüÿÿÿÿ8••áºƒ2J$7730b6d2-3d7f-4c43-be90-aca967adc646
+™	java:S116I"WRename this field "producer_inn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦©Æ—8••áºƒ2J$b3deedb8-7e2a-4751-9cf1-c12476bd867c
+¡	java:S116J"ZRename this field "production_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬šş÷úÿÿÿÿ8••áºƒ2J$6dacf617-3eb6-4cec-b2ad-16380e2d8c0b
+¡	java:S116K"ZRename this field "production_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ö‚İüÿÿÿÿ8••áºƒ2J$2f46888f-610c-4b68-a305-b924d22a9078
+•	java:S116M"SRename this field "reg_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Ş‚é8••áºƒ2J$4711ce0b-6070-4b8e-9de5-686bc170f9d3
+–	java:S116N"URename this field "reg_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷¶8••áºƒ2J$a366123f-f110-43b3-951f-7dd646a3a1b1
+¦	java:S116U"_Rename this field "certificate_document" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ëå¢ùÿÿÿÿ8˜•áºƒ2J$9f03010a-0a4c-45d6-9adb-e4dea5bdf4a3
+¦	java:S116V"dRename this field "certificate_document_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­©É8˜•áºƒ2J$4ead8746-a84c-4eac-8120-9d1f9d936f83
+­	java:S116W"fRename this field "certificate_document_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€µ­´şÿÿÿÿ8˜•áºƒ2J$23b24ec2-d21f-4b7e-b910-3fcd791e6268
+›	java:S116X"TRename this field "owner_inn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚±®Êûÿÿÿÿ8˜•áºƒ2J$2688f58c-bb23-4ef6-987c-caa58c7304ad
+™	java:S116Y"WRename this field "producer_inn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦©Æ—8˜•áºƒ2J$1fb13783-9165-4998-a6af-e8e2cc22f1f2
+¡	java:S116Z"ZRename this field "production_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬šş÷úÿÿÿÿ8˜•áºƒ2J$d123760d-db9c-4e94-9aa1-4ded2e0deb9a
+—	java:S116["URename this field "tnved_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÈ„8˜•áºƒ2J$af0a3abe-e1e1-49fe-b6d1-87a145db874c
+š	java:S116\"SRename this field "uit_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÕó‰şÿÿÿÿ8˜•áºƒ2J$6146df31-f9cd-4e8f-9033-339126f31868
+•	java:S116]"TRename this field "uitu_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü­ãJ8˜•áºƒ2J$2c4e2ad5-1e17-41de-9bac-274879ceb3ea
