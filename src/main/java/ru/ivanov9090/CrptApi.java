@@ -54,7 +54,7 @@ public class CrptApi {
         }
     }
 
-    // Класс для реализации отправки HTTP запроса.
+    // Пример реализации отправки HTTP запроса.
     private static class HttpClientImp {
         public void post(String url, String jsonDocument, String signature) throws IOException {
              //Реализация HTTP POST запроса
