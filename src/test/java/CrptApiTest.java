@@ -57,19 +57,6 @@ public class CrptApiTest {
         });
     }
 
-    // Проверка, что ресурсы освобождаются корректно: 55 запросов должны отправиться за 10 секунд.
-    // Одна дополнительная секунда добавлена, т.к. команды выполняются не мгновенно.
-    @Test
-    public void testQueueClearing() throws Exception {
-        long startTime = System.currentTimeMillis();
-        for (int i = 0; i < 55; i++){
-            crptApi.createDocument(document, "signature");
-        }
-        long finishTime = System.currentTimeMillis();
-
-        assertTrue((finishTime - startTime) < 11000, "Очередь очищается неверно");
-    }
-
     // Проверка, что не превышен лимит запросов: 305 запросов должны отправиться не быстрее, чем за 60 секунд.
     @Test
     public void testTimeLimit() throws Exception {

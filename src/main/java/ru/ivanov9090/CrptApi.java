@@ -1,6 +1,7 @@
 package ru.ivanov9090;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import okhttp3.*;
 
 import java.io.IOException;
 import java.util.concurrent.*;
@@ -53,11 +54,18 @@ public class CrptApi {
         }
     }
 
-    // Класс для реализации отправки HTTP запроса (в зависимости от используемых в проекте библиотек).
-    // По условию задания не требуется.
+    // Класс для реализации отправки HTTP запроса.
     private static class HttpClientImp {
         public void post(String url, String jsonDocument, String signature) throws IOException {
-            // Реализация HTTP POST запроса
+             //Реализация HTTP POST запроса
+             OkHttpClient client = new OkHttpClient();
+             RequestBody body = RequestBody.create(jsonDocument, MediaType.get("application/json"));
+             Request request = new Request.Builder()
+                 .url(url)
+                 .addHeader("Signature", signature)
+                 .post(body)
+                 .build();
+             Response response = client.newCall(request).execute();
         }
     }
 
